@@ -1,0 +1,30 @@
+* when in dev mode ux is dev focused
+* when in production mode, focus is on (security & performance & gracefully failing & debug free, reporting(google analytics))
+
+
+* animate asci art as rainbow in dev tools console on repeat, and hide source on remote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+....................../´;/) 
+....................,/¯../ 
+.................../..../ 
+............./´¯/'...'/´¯¯`·¸ 
+........../'/.../..../......./¨¯\ 
+........('(...´...´.... ¯~/'...') 
+.........\.................'...../ 
+..........''...\.......... _.·´ 
+............\..............( 
+..............\.............\...
