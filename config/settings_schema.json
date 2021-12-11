@@ -1,0 +1,47 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "ecopeaco",
+    "theme_version": "1.0.0",
+    "theme_author": "Process",
+    "theme_documentation_url": "https:\/\/processcreative.com.au",
+    "theme_support_url": "https:\/\/processcreative.com.au",
+    "theme_packaged_with": "@process-creative\/slate-tools@2.1.36"
+  },
+  {
+    "name": "Favicon",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "favicon",
+        "label": "Favicon image",
+        "info": "Will be scaled down to 32 x 32px"
+      }
+    ]
+  },
+  {
+    "name": "Social media",
+    "settings": [
+      {
+        "type": "text",
+        "id": "social_link_facebook",
+        "label": "Facebook link"
+      },
+      {
+        "type": "text",
+        "id": "social_link_instagram",
+        "label": "Instagram link"
+      },
+      {
+        "type": "text",
+        "id": "social_link_twitter",
+        "label": "Twitter link"
+      },
+      {
+        "type": "text",
+        "id": "social_link_pinterest",
+        "label": "Pinterest link"
+      }
+    ]
+  }
+]
